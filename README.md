@@ -23,7 +23,7 @@ python nom_del_script.py
 Les contribucions són benvingudes. Si desitges millorar aquest projecte, si us plau obre un issue o envia un pull request.
 
 ### Llicència
-Aquest projecte està sota la Llicència MIT. Consulta el fitxer LICENSE per a més detalls.
+El conjunt de dades resultant està sota la llicència **CC BY-NC-SA 4.0 License**, que permet l'ús i la compartició de les dades per a fins no comercials, sempre que es respectin les mateixes condicions en obres derivades.
 
 
 
