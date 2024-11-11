@@ -13,7 +13,7 @@ pip install webdriver-manager
 ### Ús
 1. Clona aquest repositori a la teva màquina local.
 2. Assegura't de tenir Python i pip instal·lats.
-3. Executa l'script main:
+3. Executa la funció golejadors_premier_league.py des del main.ipynb de la carpeta source
 
 
 
