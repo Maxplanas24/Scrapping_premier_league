@@ -13,11 +13,9 @@ pip install webdriver-manager
 ### Ús
 1. Clona aquest repositori a la teva màquina local.
 2. Assegura't de tenir Python i pip instal·lats.
-3. Executa l'script amb la següent ordre:
+3. Executa l'script main:
 
-```bash
-python nom_del_script.py
-```
+
 
 ### Contribucions
 Les contribucions són benvingudes. Si desitges millorar aquest projecte, si us plau obre un issue o envia un pull request.
